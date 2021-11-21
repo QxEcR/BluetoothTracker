@@ -33,7 +33,8 @@ export default App = () => {
 const style = StyleSheet.create({
   View: {
     flex: 1,
-    marginTop: 20,
+    marginTop: 2,
     alignItems: "center",
+    backgroundColor: "#fcfcfc",
   },
 });
